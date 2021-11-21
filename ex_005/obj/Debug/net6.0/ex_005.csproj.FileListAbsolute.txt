@@ -1,0 +1,15 @@
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.csproj.AssemblyReference.cache
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.AssemblyInfoInputs.cache
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.AssemblyInfo.cs
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.csproj.CoreCompileInputs.cache
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\bin\Debug\net6.0\ex_005.exe
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\bin\Debug\net6.0\ex_005.deps.json
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\bin\Debug\net6.0\ex_005.runtimeconfig.json
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\bin\Debug\net6.0\ex_005.dll
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\bin\Debug\net6.0\ref\ex_005.dll
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\bin\Debug\net6.0\ex_005.pdb
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.dll
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ref\ex_005.dll
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.pdb
+C:\Users\vitya.ya\Desktop\Lessen 1 C#\ex_005\obj\Debug\net6.0\ex_005.genruntimeconfig.cache
