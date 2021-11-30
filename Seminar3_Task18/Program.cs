@@ -1,7 +1,9 @@
 ﻿// 18. Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
-bool x= false;
-bool y= true;
-if(!(x||y) == !x && !y)
+Console.WriteLine("введите x");
+bool x= bool.Parse(Console.ReadLine());
+Console.WriteLine("введите y");
+bool y= bool.Parse(Console.ReadLine());
+if((!(x||y)) == (!x && !y))
 {
     Console.WriteLine("утверждение истинно");
 }
