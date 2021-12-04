@@ -1,13 +1,16 @@
 ﻿// 18. Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
-Console.WriteLine("введите x");
-bool x= bool.Parse(Console.ReadLine());
-Console.WriteLine("введите y");
-bool y= bool.Parse(Console.ReadLine());
-if((!(x||y)) == (!x && !y))
+bool[] x={true, false};
+bool[] y= {true,false};
+int count=0;
+for (int i = 0; i < x.Length; i++)
 {
-    Console.WriteLine("утверждение истинно");
+    for (int j = 0; j < y.Length; j++)
+    {
+        Console.WriteLine($"{x[i]},{y[j]}");
+        if((!(x[i]||y[j])) == (!x[i] && !y[j])) count++;
+        
+    }
 }
-else
-{
-    Console.WriteLine("утверждение ложно");
-}
+if(count==4) Console.WriteLine("утверждение истинно");
+
+else   Console.WriteLine("утверждение ложно");
