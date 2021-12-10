@@ -42,5 +42,5 @@ void Parity(int[] collection)
         }
     }
 }
-   ghyft
+
     Parity(Array);
