@@ -24,7 +24,7 @@ int Interval(int[] col)
 {  int count=0;
     for (int i = 0; i <col.Length; i++)
     
-        if(col[i] >=10 && col[i] < 99) count++;
+        if(col[i] >=10 && col[i] <= 99) count++;
         
     return count;
 } 

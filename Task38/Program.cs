@@ -15,15 +15,14 @@ FillArray(Arr);
 Console.WriteLine();
 int IndexOf(int[] collection)
 {
-    int sum=0;
+    int sum = 0;
     for (int i = 0; i < collection.Length; i++)
     {
-        if(i>0)
-        {
-            if(i%2==1) 
-            Console.WriteLine($"{"элемент"} {collection[i]} {"индекс="}{i}" );
-        }
-        sum+=collection[i];
+
+        if (i % 2 == 1)
+            Console.WriteLine($"{"элемент"} {collection[i]} {"индекс="}{i}");
+
+        sum += collection[i];
     }
     return sum;
 }
