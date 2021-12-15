@@ -66,7 +66,7 @@ int[,] matrica=new int[lengthM,lengthN];
 FillArray(matrica, 1,10);
 PrintArray(matrica);
 Console.WriteLine();
-int[]M=new int[lengthM];
+int[]M=new int[lengthN];
 Copy(matrica,M);
 
 
