@@ -37,14 +37,17 @@ void ArithmeticMean(int[,] Arr, int[] summ)
     {
         for (int j = 0; j <Arr.GetLength(1); j++)
         {
-            summ[i]+=Arr[i,j];
+            summ[j]+=Arr[i,j];
         }
     }
     for (int i = 0; i <summ.Length; i++)
     {
-        Console.Write($"{summ[i]/Arr.GetLength(1)} ");
+        Console.Write($"{(double)summ[i]} ");
+       
+        Console.Write($"{(double)summ[i]/Arr.GetLength(1)} ");
     }
    }
 
 int[] Sum=new int[lengthN];
 ArithmeticMean(matrica,Sum);
+//работает сохрани
